@@ -1,0 +1,18 @@
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.csprojAssemblyReference.cache
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+D:\Carpeta Personal\Descargas\LoginMenu\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+D:\Carpeta Personal\Descargas\Telegram Desktop\AprodelboSA\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
